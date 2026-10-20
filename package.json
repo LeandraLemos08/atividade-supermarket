@@ -1,0 +1,33 @@
+{
+  "name": "supermarket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandraLemos08/atividade-supermarket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandraLemos08/atividade-supermarket/issues"
+  },
+  "homepage": "https://github.com/LeandraLemos08/atividade-supermarket#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/readline-sync": "^1.4.8",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "overrides": {
+    "uuid": "11.1.1"
+  }
+}
